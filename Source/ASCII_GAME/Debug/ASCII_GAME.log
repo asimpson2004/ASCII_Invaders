@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  ScoreDisplay.cpp
+  PlayerShip.cpp
+  Missile.cpp
+  EnemyShip.cpp
+  EnemyArmy.cpp
+  Game.cpp
+  Sprite.cpp
+  ASCIIRenderer.cpp
+  AnimatedSprite.cpp
+  Vector3.cpp
+  Vector2.cpp
+  Generating Code...
+  ASCII_GAME.vcxproj -> C:\Users\asimp_000\Desktop\ASCII Invaders FINISHED\Debug\ASCII_GAME.exe
+  ASCII_GAME.vcxproj -> C:\Users\asimp_000\Desktop\ASCII Invaders FINISHED\Debug\ASCII_GAME.pdb (Partial PDB)
